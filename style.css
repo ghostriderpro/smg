@@ -128,7 +128,7 @@ nav img {
     }
 
     .nav-links {
-        position: absolute;
+        position: fixed;
         background: #231f20;
         height: 100vh;
         width: 200px;
